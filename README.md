@@ -12,6 +12,16 @@
         mode : color of the hair (There are 3 types : black, gold, red)
     2. Run run.py
         python run.py
+
+# result
+<table>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/114035408/235408423-41618fa6-7b96-4d45-8440-2b95a9e71808.jpg" alt="Image 1" width="200" height="200"></td>
+    <td><img src="https://user-images.githubusercontent.com/114035408/235408428-a9fc619a-899f-4f29-9f02-ee2cbc8adfc8.jpg" alt="Image 2" width="200" height="200"></td>
+    <td><img src="https://user-images.githubusercontent.com/114035408/235408435-3765c9c9-6939-444e-8a79-509a3306dc0b.jpg" alt="Image 3" width="200" height="200"></td>
+  </tr>
+</table>  
+
 # How to run this file?
     This code is used for facial image parsing, which involves dividing an input image into different regions based on the different features present in the image. The code starts by importing necessary libraries including PyTorch, Numpy, PIL (Python Imaging Library), and OpenCV.
 
